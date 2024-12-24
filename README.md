@@ -1,4 +1,4 @@
-# Resources for CMT122:Machine Learning for NLP students (Autumn 2024-2025 Cardiff University)
+# Additional Resources for CMT122: Machine Learning for NLP students (Autumn 2024-2025 Cardiff University)
 
 The course is mandatory for the NLP Master's students and elective for other Master's programs. It was taught by [Jose Camacho-Collados](https://www.josecamachocollados.com) and myself ([Nedjma Ousidhoum](http://nedjmaou.github.io): module leader).
 
