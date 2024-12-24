@@ -4,9 +4,18 @@ The course is mandatory for the NLP Master's students and elective for other Mas
 
 This class provides a basic understanding of Machine Learning methods with (mostly) practical tips and hands-on experience in ML to solve NLP problems, and a bit of theory.
  
-As we had a diverse cohort with various familiarity levels with programming and students coming from several backgrounds (e.g., linguistics, languages, statistics, math, computer science,...), we also provided the students with resources for beginners. The compiled list includes courses, blog posts, videos, and research papers.
+As we had a diverse cohort with various familiarity levels with programming and students coming from several backgrounds (e.g., linguistics, languages, statistics, math, computer science,...), we also provided the students with resources for beginners. The compiled list includes courses, blogposts, videos, and research papers sorted by themes.
 
+## Content
 
+- [Resources for beginners](##Resources-for-Python/Coding-Beginners)
+- [Resources for Reading and Writing Research Papers](##Resources-for-Reading-and-Writing-Research-Papers)
+- [Additional Resources (Class Content)](##Additional-Resources-(Class-Content))
+  - [Introduction to ML for NLP (General Resources)](###Introduction-to-ML-for-NLP-(General-Resources))
+  - [Neural Nets and Deep Learning](###Neural-Nets-and-Deep-Learning)
+  - [Language Models](###Language-Models)
+  - [Ethics and Bias](###Ethics-and-Bias)
+  - [Prompting](###Prompting)
 ## Resources for Python/Coding Beginners
 - [Blog on recources for beginners](https://josecamachocollados.medium.com/before-getting-started-with-machine-learning-online-tutorials-5bf87fdeb737) by Jose Camacho-Collados.
 - [Online Python Book](https://runestone.academy/ns/books/published/pythonds/index.html) by By Brad Miller and David Ranum, Luther College.
