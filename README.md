@@ -1,18 +1,18 @@
 # Resources for CMT122 (Machine Learning for NLP) students (Autumn 2024-2025, Cardiff University)
 
-The course is mandatory for the NLP Master's students and elective for other Master's programs. It was taught by [Jose Camacho-Collados](https://www.josecamachocollados.com) and myself ((Nedjma Ousidhoum)[http://nedjmaou.github.io]: module leader).
+The course is mandatory for the NLP Master's students and elective for other Master's programs. It was taught by [Jose Camacho-Collados](https://www.josecamachocollados.com) and myself ([Nedjma Ousidhoum](http://nedjmaou.github.io): module leader).
 
 This class provides a basic understanding of Machine Learning methods with (mostly) practical tips and hands-on experience in ML to solve NLP problems, and a bit of theory.
  
-As we had a diverse cohort with varying levels of programming and diverse backgrounds (e.g., linguistics, languages, statistics, math, computer science), we also provided the students with resources for beginners.
+As we had a diverse cohort with various familiarity levels with programming and students coming from several backgrounds (e.g., linguistics, languages, statistics, math, computer science,...), we also provided the students with resources for beginners. The compiled list includes courses, blog posts, videos, and research papers.
 
 
 ## Resources for Python/Coding Beginners
-- [Blog on recources for beginners](https://josecamachocollados.medium.com/before-getting-started-with-machine-learning-online-tutorials-5bf87fdeb737)
-- [Online Python Book](https://runestone.academy/ns/books/published/pythonds/index.html)
+- [Blog on recources for beginners](https://josecamachocollados.medium.com/before-getting-started-with-machine-learning-online-tutorials-5bf87fdeb737) by Jose Camacho-Collados.
+- [Online Python Book](https://runestone.academy/ns/books/published/pythonds/index.html) by By Brad Miller and David Ranum, Luther College.
 - [Python Code Camp Course on YouTube](https://www.youtube.com/@freecodecamp)
 - [W3S Schools: Introduction to Data Structures and Algorithms](https://www.w3schools.com/dsa/dsa_intro.php#:~:text=Data%20Structures%20is%20about%20how,data%20to%20solve%20problems%20efficiently.)
-- [Algorithms and Data Structures in Python](https://www.freecodecamp.org/news/learn-algorithms-and-data-structures-in-python/)
+- [Algorithms and Data Structures in Python](https://www.freecodecamp.org/news/learn-algorithms-and-data-structures-in-python/) by Beau Carnes.
 - [How To Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/ns/books/published/thinkcspy/index.html)
 ### Resources for Students Who Are Unfamiliar with Google Colab
 - **Introduction**
