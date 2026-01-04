@@ -44,6 +44,7 @@ As we had a diverse cohort with various familiarity levels with programming and 
 - **Tips for Writing NLP Papers** by Vered Schwartz: https://medium.com/@vered1986/tips-for-writing-nlp-papers-9c729a2f9e1f
 - **Ethics Reviewer Tutorial** by ARR: https://aclrollingreview.org/ethicsreviewertutorial
 - **Writing a System description Paper for SemEval 2025 Task 11** by Nedjma Ousidhoum: https://github.com/nedjmaou/Writing_a_task_description_paper
+- **How to Write** ***ACL Papers**  by Nikos Aletras https://github.com/Niko-Group/paper_writing_info
 
 ## Additional Resources (Class Content)
 ### Introduction to ML for NLP (General Resources)
